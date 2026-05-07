@@ -507,28 +507,6 @@ java -jar resume-checker-1.0.0.jar
 
 ---
 
-## 🔧 Configuration Files
-
-### application.properties (Backend)
-```properties
-server.port=8081
-spring.datasource.url=jdbc:postgresql://localhost:5432/ats_db
-spring.datasource.username=postgres
-spring.datasource.password=root
-spring.jpa.hibernate.ddl-auto=update
-```
-
-### vite.config.js (Frontend)
-```javascript
-proxy: {
-  '/api': {
-    target: 'http://localhost:8081',
-    changeOrigin: true
-  }
-}
-```
-
----
 
 ## ⚙️ Technologies Used
 
