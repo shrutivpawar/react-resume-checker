@@ -553,18 +553,6 @@ mvn clean package
 | API returns 404 | Check backend is running on 8081 |
 | File upload not working | Ensure file is PDF or DOCX |
 
-## 🤝 Contributing
 
 Contributions welcome! Submit issues or pull requests.
 
-## 📄 License
-
-MIT License - feel free to use this project
-
-## 👨‍💻 Author
-
-Built with ❤️ using Spring Boot, React, and Vite
-
----
-
-**Happy Resume Checking! 🎉**
