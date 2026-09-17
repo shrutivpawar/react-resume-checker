@@ -554,7 +554,8 @@ mvn clean package
 | File upload not working | Ensure file is PDF or DOCX |
 
 
-[![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original))](https://youtu.be/aFusGbcipms?si=WYladM_kDgba9-ia) 
+## Demo Tutorial of working project 
+[![Watch the demo](https://youtu.be/aFusGbcipms?si=WYladM_kDgba9-ia) 
 
 Contributions welcome! Submit issues or pull requests.
 
