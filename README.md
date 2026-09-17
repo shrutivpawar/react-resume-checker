@@ -555,7 +555,7 @@ mvn clean package
 
 
 ## Demo Tutorial of working project 
-[![Watch the demo](https://youtu.be/aFusGbcipms?si=WYladM_kDgba9-ia) 
+![Watch the demo](https://youtu.be/aFusGbcipms?si=WYladM_kDgba9-ia) 
 
 Contributions welcome! Submit issues or pull requests.
 
